@@ -1,0 +1,15 @@
+{
+  "name": "resilient-email-service",
+  "version": "1.0.0",
+  "description": "## Features - Retry with exponential backoff - Fallback provider mechanism - Idempotency to avoid duplicates - Rate limiting (5 per minute) - Circuit breaker per provider - Simple logging - Optional queue system",
+  "main": "EmailService.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
